@@ -181,7 +181,8 @@ at consolidation.
 While many people believe that they can "multi-task," the reality is that attention can 
 only focus on one thing at a time. Adding items that demand attention adds more things 
 to alternate between attending to, which can reduce efficiency and performance on all of them.
-the theory of **[cognitive load][wikipedia-cognitive-load]**.
+
+### The theory of **[cognitive load][wikipedia-cognitive-load]**.
 There are different theories of cognitive load, but one by Sweller posits that people have to 
 attend to three types of things when they are learning:
 
@@ -281,7 +282,7 @@ For Carpentries workshops, this is why we ask Instructors to **speak commands as
 while engaging learners in [participatory live coding]({{ page.root }}/17-live/).
 
 One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands** 
-and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access 
+and other key terms. This can be maintained by a helper on a white board or an Etherpad and will help learners readily access 
 items that may have already been dropped from short-term memory by the time they need them. In an online workshop, display of a glossary 
 is impractical because of severe limitations on screen space; however, a glossary can still be maintained in a collaborative document 
 for reference as needed.
